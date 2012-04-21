@@ -3,7 +3,7 @@
 /**
  * Description of actions
  *
- * @author panefra
+ * @author Francisco Pane
  */
 class jcryptionActions extends sfActions {
 
